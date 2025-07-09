@@ -6,8 +6,6 @@
 - 🌱 Passionate about learning and contributing to the open source community
 - 📫 Always open to collaboration and new opportunities
 
-# I share software projects and tool on my github :)
-
 ## 🛠️ Technologies & Tools
 
 <p align="left">
