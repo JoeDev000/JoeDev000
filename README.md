@@ -6,6 +6,8 @@
 - 🌱 Passionate about learning and contributing to the open source community
 - 📫 Always open to collaboration and new opportunities
 
+# I share software projects and tool on my github :)
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -25,10 +27,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeDev000&layout=compact&theme=radical)
 
 ## 🌟 What I'm Working On
-- 🔭 Currently exploring system programming and low-level development
+- 🔭 Currently exploring software developement using C# & SQL
 - 🌱 Learning advanced algorithms and data structures
 - 👯 Looking to collaborate on open source projects
-- 🤔 Interested in contributing to Linux kernel and system tools
 
 ## 🤝 Let's Connect
 - 💬 Ask me about C/C++, Linux, or open source development
