@@ -43,13 +43,16 @@
 <a href="https://linkedin.com/in/JoeDev000" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
+<br>
 <a href="https://t.me/fshi7aga" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" width="40" height="40"/>
 </a>
+<br>
 <a href="mailto:yousefalinl0@gmail.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" width="40" height="40"/>
 </a>
 </p>
 <div align="center">
   <b>Happy coding! 🚀</b>
+</div>
 </div>
