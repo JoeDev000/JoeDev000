@@ -20,9 +20,9 @@
 
 ## 🔥 My GitHub Stats
 
-![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeDev000&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeDev000&layout=compact&theme=radical)
 
 ## 🌟 What I'm Working On
 - 🔭 Currently exploring system programming and low-level development
@@ -36,6 +36,11 @@
 - ⚡ Fun fact: I use Arch Linux BTW 😄
 
 ---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoeDev000&style=flat-square&color=blue" alt="Profile views">
+</div>
 
 <div align="center">
   <i>Happy coding! 🚀</i>
